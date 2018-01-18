@@ -5,6 +5,7 @@
  reconst_csa.py
  reconst_csd_parallel.py
  reconst_csd.py
+ reconst_forecast.py
  reconst_dki.py
  reconst_dsi_metrics.py
  reconst_dsi.py
@@ -28,6 +29,7 @@
  sfm_reconst.py
  gradients_spheres.py
  simulate_multi_tensor.py
+ simulate_dki.py
  restore_dti.py
  streamline_length.py
  reconst_shore.py
@@ -55,4 +57,5 @@
  workflow_creation.py
  combined_workflow_creation.py
  viz_surfaces.py
+ viz_roi_contour.py
  viz_ui.py
