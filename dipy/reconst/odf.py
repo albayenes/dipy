@@ -45,7 +45,9 @@ def gfa(samples):
 
     Notes
     -----
-    The GFA is defined as [1]_ ::
+    The GFA is defined as [1]_ 
+    
+    ... math::
 
         \sqrt{\frac{n \sum_i{(\Psi_i - <\Psi>)^2}}{(n-1) \sum{\Psi_i ^ 2}}}
 
